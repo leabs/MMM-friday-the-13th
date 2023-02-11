@@ -12,14 +12,14 @@ A [MagicMirror](https://github.com/MichMich/MagicMirror) Module to show the user
 
 ```
 modules: [
-    {
-        module: 'MMM-friday-the-13th',
-        position: 'top_right',
-    }
-    //Config option for scary mode. If you want to be scared, set this to true.
-    config: {
-        scary: false,
-    }
+		{
+			module: 'MMM-friday-the-13th',
+			position: 'top_right',
+			//Config option for scary mode. If you want to be scared, set this to true.
+			config: {
+				scary: false,
+			}
+		},
 ]
 ```
 
